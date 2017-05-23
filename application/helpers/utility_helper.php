@@ -27,3 +27,17 @@ if (!function_exists('img_dir()')) {
         return public_dir() . 'img/';
     }
 }
+
+if (!function_exists('fonts_dir()')) {
+    function fonts_dir()
+    {
+        return public_dir() . 'fonts/';
+    }
+}
+
+if (!function_exists('colors_dir()')) {
+    function colors_dir()
+    {
+        return public_dir() . 'colors/';
+    }
+}
