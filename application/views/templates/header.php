@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>RScard</title>
+    <title>Iulian Beleiu</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/ico" href="<?php echo img_dir() . 'favicon.png'; ?>"/>
@@ -15,8 +15,8 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic">
 
     <!-- Icon Fonts -->
-    <link rel="stylesheet" type="text/css" href="<?php fonts_dir() . 'map-icons/css/map-icons.min.css'; ?>">
-    <link rel="stylesheet" type="text/css" href="<?php fonts_dir() . 'fonts/icomoon/style.css'; ?>">
+    <link rel="stylesheet" type="text/css" href="<?php echo fonts_dir() . 'map-icons/css/map-icons.min.css'; ?>">
+    <link rel="stylesheet" type="text/css" href="<?php echo fonts_dir() . 'icomoon/style.css'; ?>">
 
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="<?php echo js_dir() . 'plugins/jquery.bxslider/jquery.bxslider.css'; ?>">
