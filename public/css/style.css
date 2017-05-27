@@ -6658,3 +6658,18 @@ body {
 .text-align-justify {
     text-align: justify;
 }
+
+#map-custom {
+    width: 100%;
+    height: 340px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+#map-custom .map-icon {
+    font-size: 55px;
+    line-height: 55px;
+    text-align: center;
+    white-space: nowrap;
+}
