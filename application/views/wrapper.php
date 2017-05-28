@@ -94,8 +94,8 @@
                               href="<?php echo public_dir() . 'files/IulianBeleiu.pdf'?>" download="">Download
                                 Resume</a></p>
 
-                        <p>Hello! I'm Iulian Beleiu. Web Developer specializing in back end development.
-                            Experienced with all stages of the development cycle for dynamic web projects. Well-versed
+                        <p>Hello! I'm Iulian Beleiu. Web Developer specializing in back-end development.
+                            I am experienced in all the stages of the development cycle. Well-versed
                             in numerous programming languages including Php, MySql.</p>
                     </div>
                 </div>
@@ -105,23 +105,42 @@
                 <div class="animate-up animated">
 
                     <div class="section-box">
-                        <p>COMMUNICATION SKILLS</p>
-                        <p class="text-align-justify">▪ Excellent presentation and negotiation skills, empathic listener, speaking to groups or via
-                            electronic media, combine patience, determination, and persistence to troubleshoot client
-                            issues, handling complaints from clients and customers, thrive in a team environment and
-                            work well with others, enjoy working as a team member.
-                        </p>
-
-                        <p>ORGANISATIONAL/MANAGERIAL SKILLS</p>
-                        <p class="text-align-justify">▪ Confident, research skills, self-taught, adaptability, creating
-                            and keep deadlines, goal setting and meeting goals, managing appointments, project
-                            management, making schedules, time management skills, multitasking, productivity, teamwork.
-                        </p>
-
-                        <p>INTERPERSONAL SKILLS</p>
-                        <p class="text-align-justify">▪ Carring attitude, ability to take constructive criticism in a
-                            positive manner, ability to adapt to changing work environments if it’s necessary and
-                            problem solving.</p>
+                        <h2>Summary</h2>
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <h6>COMMUNICATION SKILLS</h6>
+                                <ul>
+                                    <li>Excellent presentation and negotiation skills</li>
+                                    <li>Empathic listener</li>
+                                    <li>Combine patience, determination, and persistence to troubleshoot client
+                                        issues</li>
+                                    <li>Handling complaints from clients and customers</li>
+                                    <li>Thrive in a team environment and
+                                        work well with others</li>
+                                    <li>Enjoy working as a team member</li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-4">
+                                <h6>ORGANISATIONAL SKILLS</h6>
+                                <ul>
+                                    <li>Confident, research skills, self-taught, adaptability</li>
+                                    <li>Creating and keep deadlines</li>
+                                    <li>Goal setting and meeting goals</li>
+                                    <li>Managing appointments</li>
+                                    <li>Project management, time management skills</li>
+                                    <li>Multitasking, productivity, teamwork</li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-4">
+                                <h6>INTERPERSONAL SKILLS</h6>
+                                <ul>
+                                    <li>Carring attitude</li>
+                                    <li>Ability to take constructive criticism in a positive manner</li>
+                                    <li>Ability to adapt to changing work environments if it’s necessary and
+                                        problem solving</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
